@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Harmattan');
+
+body{
+    background: #e5e5e5;
+    font-family: 'Harmattan', sans-serif;
+}
+.whitebg{
+    background: #FFF;
+}
+
+.darkbg{
+    background: #182226;
+    color: #FFF;
+}
+
+.sitetopnav .nav-item .nav-link{
+    font-size: 21px;
+}
+input[type=button]{
+    cursor: pointer;
+}
+
+.card{
+    margin: 10px 0 10px 0 !important;
+    min-width: 300px;
+}
+
+
+.nav-item .badge{
+    font-size: 10px;
+    margin-top: -43px;
+    position: absolute;
+}
